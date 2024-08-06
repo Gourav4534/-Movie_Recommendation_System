@@ -12,8 +12,9 @@ This project implements a movie recommendation system using Singular Value Decom
 - `README.md`: This file, containing project details and instructions.
 
 ## Dataset
-### combined_data_1.txt
 Link For Dataset Download = https://www.kaggle.com/code/hardboy/recommendation-system-using-svd-on/input
+
+### combined_data_1.txt
 This file contains the user ratings dataset. The format is:
 
 - `Cust_Id`: Unique identifier for each customer.
